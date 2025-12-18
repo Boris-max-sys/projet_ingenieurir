@@ -1,0 +1,8 @@
+l opencv-python
+opencv-contrib-python
+mediapipe
+numpy
+pillow
+matplotlib
+dlib-19.24.1-cp311-cp311-win_amd64.whl
+face-recognition
